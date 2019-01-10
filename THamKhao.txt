@@ -2,6 +2,7 @@ https://learningnetwork.cisco.com/thread/73194
 https://en.wikipedia.org/wiki/Application_layer
 
 https://github.com/hocchudong/thuctap032016/blob/master/LTLinh/LTLinh-B%C3%A1o%20c%C3%A1o%20giao%20th%E1%BB%A9c%20DHCP/LTLinh-caidatwireshark-phantichgoitinDHCP.md
-
+https://itmagical.com/mang-may-tinh/bai-2-kien-truc-phan-tang-mang-may-tinh.html
+https://stackoverflow.com/questions/1790960/why-dhcp-client-listens-on-port-68
 
 trac nghiem - https://sites.google.com/site/hoaihancntt/cau-hoi-on-tap-mang-may-tinh
